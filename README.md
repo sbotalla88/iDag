@@ -1,1 +1,3 @@
 # iDag
+- Node.js
+- MongoDB
